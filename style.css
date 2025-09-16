@@ -20,6 +20,7 @@ body {
 
 #sketch-box {
     display: flex;
+    flex-wrap: wrap;
     background-color: white;
     width: 500px;
     height: 500px;
